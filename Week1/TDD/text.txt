@@ -1,0 +1,2 @@
+ALL THE JUNIT ARE DONE SEPARTELY
+https://github.com/sneha-pureka/java-logging-junit-examples
